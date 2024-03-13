@@ -1,0 +1,9 @@
+# PyCharm project directory
+.idea
+
+# pyinstaller directories
+build/
+dist/
+
+# venv directory
+.venv/
